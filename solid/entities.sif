@@ -1,0 +1,26 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = volume
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = end1
+End
+
+Boundary Condition 2
+  Name = end2
+End
+
+Boundary Condition 3
+  Name = end3
+End
+
+Boundary Condition 4
+  Name = Group_2
+End
+
+Boundary Condition 5
+  Name = bnry7
+End
+

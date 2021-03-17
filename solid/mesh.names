@@ -1,0 +1,8 @@
+! ----- names for bodies -----
+$ volume = 1
+! ----- names for boundaries -----
+$ end1 = 1
+$ end2 = 2
+$ end3 = 3
+$ Group_2 = 4
+$ bnry7 = 5
