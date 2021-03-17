@@ -1,0 +1,7 @@
+! ----- names for bodies -----
+$ shell = 1
+! ----- names for boundaries -----
+$ end1 = 1
+$ end2 = 2
+$ end3 = 3
+$ bnry6 = 4
